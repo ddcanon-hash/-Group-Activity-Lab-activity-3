@@ -1,0 +1,16 @@
+<html>
+<head>
+  <title>HTML Learning Formatting</title>
+  </head>
+  <body>
+    <h1>Welcome to HTML Learning</h1>
+    
+    <p> HTML is the standard <em>language</em> for creating webpages.</p>
+    
+    <p>Learning HTML is <mark>fun and useful</mark>.</mark></p>
+    
+    <p>Some old tags are deprecated.</p>
+    
+    <p><strong>Students must write the HTML code.</strong></p>
+    </body>
+    </html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Group Marquee & Photo</title>
+<style>
+/* Optional: Add basic styling for better appearance */
+marquee {
+    padding: 8px;
+    background-color: #f0f0f0;
+    font-size: 18px;
+    color: #2c3e50;
+}
+img {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #3498db;
+    max-width: 100%;
+    height: auto;
+}
+</style>
+</head>
+<body>
+<!-- Marquee with group details -->
+<marquee behavior="alternate" direction="left" scrollamount="4">
+Group Name: Twon bestfriend  WS202| Group Number: 2 
+</marquee>
+
+<!--Group photo with complete link (ensure the full URL is added before the filename) -->
+<img src="https://uploads.onecompiler.io/43xhs4wfs/44h5u8ufa/ad700019-936b-4bc8-ac72-6e1803694241.jpg" alt="Group Photo - Group 2 WS101" 
+      title="Our Group Photo">
+
+<!-- If the image is online, the src should look like this (example format):
+<img src="https://uploads.onecompiler.io/43xhs4wfs/44h5u8ufa/ad700019-936b-4bc8-ac72-6e1803694241.jpg" alt="Group Photo" title="Our Group">
+-->
+</body>
+</html>
